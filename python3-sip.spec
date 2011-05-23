@@ -1,6 +1,6 @@
 Name: python3-sip
 Summary: Riverbanks's python sip
-Version: 4.12.2
+Version: 4.12.3
 Release: %mkrel 1
 Group: Development/Python 
 URL: http://www.riverbankcomputing.co.uk/software/sip/intro
