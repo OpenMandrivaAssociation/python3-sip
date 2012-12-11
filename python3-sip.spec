@@ -44,3 +44,24 @@ done
 
 %clean
 %{__rm} -rf %{buildroot}
+
+
+%changelog
+* Mon May 23 2011 Funda Wang <fwang@mandriva.org> 4.12.3-1mdv2011.0
++ Revision: 677495
+- new version 4.12.3
+
+* Mon May 02 2011 Funda Wang <fwang@mandriva.org> 4.12.2-1
++ Revision: 662371
+- new version 4.12.2
+
+* Mon May 02 2011 Funda Wang <fwang@mandriva.org> 4.11.2-3
++ Revision: 662210
+- rebuild
+- rebuild
+- rename spec
+
+* Mon Nov 01 2010 Funda Wang <fwang@mandriva.org> 4.11.2-1mdv2011.0
++ Revision: 591287
+- import python3-sip
+
