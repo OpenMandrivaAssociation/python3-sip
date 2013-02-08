@@ -1,7 +1,7 @@
 Name: python3-sip
 Summary: Riverbanks's python sip
 Version: 4.12.3
-Release: %mkrel 1
+Release: 2
 Group: Development/Python 
 URL: http://www.riverbankcomputing.co.uk/software/sip/intro
 Source0: http://www.riverbankcomputing.com/static/Downloads/sip4/sip-%version.tar.gz
@@ -12,9 +12,9 @@ BuildRequires: python3-devel
 Conflicts: python-sip
 
 %description
-SIP is a tool that makes it very easy to create Python bindings for C and C++ libraries. It was
-originally developed to create PyQt, the Python bindings for the Qt toolkit, but can be used to
-create bindings for any C or C++ library.
+SIP is a tool that makes it very easy to create Python bindings for C and C++
+libraries. It was originally developed to create PyQt, the Python bindings for
+the Qt toolkit, but can be used to create bindings for any C or C++ library.
 
 %files 
 %defattr(-,root,root)
