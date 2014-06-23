@@ -27,7 +27,7 @@ the Qt toolkit, but can be used to create bindings for any C or C++ library.
 %package -n python3-sip-devel
 Summary: Files needed to generate Python 3 bindings for any C++ class library
 Group: Development/Python
-Requires: python3-sip = %{epoch}:%{version}
+Requires: python3-sip = %{EVRD}
 Requires: python3-devel
 
 %description -n python3-sip-devel
@@ -36,7 +36,6 @@ classes library.
 
 %files -n python3-sip-devel
 %{_bindir}/sip
-# %{_datadir}/python3-sip/
 %{py3_incdir}/*
 %{_sysconfdir}/rpm/macros.d/sip.macros
 
