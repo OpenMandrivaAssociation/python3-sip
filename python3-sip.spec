@@ -36,7 +36,7 @@ classes library.
 
 %files -n python3-sip-devel
 %{_bindir}/sip
-%{_datadir}/python3-sip/
+# %{_datadir}/python3-sip/
 %{py3_incdir}/*
 %{_sysconfdir}/rpm/macros.d/sip.macros
 
