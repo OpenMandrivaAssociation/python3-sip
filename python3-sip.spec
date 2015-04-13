@@ -6,7 +6,7 @@
 Name:		python3-sip
 Summary:	Riverbanks's python sip
 Version:	4.16.1
-Release:	2
+Release:	OBSOLETED by python-sip
 Group:		Development/Python
 URL:		http://www.riverbankcomputing.co.uk/software/sip/intro
 Source0:	http://www.riverbankcomputing.com/static/Downloads/sip4/sip-%{version}.tar.gz
