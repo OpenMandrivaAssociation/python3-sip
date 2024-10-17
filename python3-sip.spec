@@ -8,7 +8,7 @@ Summary:	Riverbanks's python sip
 Version:	4.16.1
 Release:	OBSOLETED by python-sip
 Group:		Development/Python
-URL:		http://www.riverbankcomputing.co.uk/software/sip/intro
+URL:		https://www.riverbankcomputing.co.uk/software/sip/intro
 Source0:	http://www.riverbankcomputing.com/static/Downloads/sip4/sip-%{version}.tar.gz
 License:	GPLv2+
 BuildRequires:	bzip2-devel
