@@ -11,6 +11,7 @@ Group:		Development/Python
 URL:		https://www.riverbankcomputing.co.uk/software/sip/intro
 Source0:	http://www.riverbankcomputing.com/static/Downloads/sip4/sip-%{version}.tar.gz
 License:	GPLv2+
+BuildRequires:	make
 BuildRequires:	bzip2-devel
 BuildRequires:	python3-devel
 Conflicts:	python-sip
